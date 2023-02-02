@@ -1,0 +1,7 @@
+pywin32==305
+pywin32-ctypes==0.2.0
+swinlnk==0.1.4
+pynput==1.7.6
+psutil==5.9.0
+pyinstaller==5.7.0
+pyinstaller-hooks-contrib==2022.15
